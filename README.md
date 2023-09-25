@@ -6,3 +6,5 @@ The Soft decision tree in this implementation inferences by averaging the distri
 For inferencing with greatest path probability, please see https://github.com/kimhc6028/soft-decision-tree.
 
 Original paper: https://arxiv.org/pdf/1711.09784.pdf
+
+![image](https://github.com/robchenchen/Soft-Decision-Tree/assets/75876491/644bd9c3-50f1-48f6-9c52-9924d701f9e9)
