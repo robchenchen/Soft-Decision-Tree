@@ -3,6 +3,6 @@ This is a pytorch implementation of Nicholas Frosst and Geoffrey Hinton's "Disti
 
 The Soft decision tree in this implementation inferences by averaging the distribution over all the leaves, weighted by their respective path probabilities.
 
-For inference with greatest path probability, please see https://github.com/kimhc6028/soft-decision-tree.
+For inferencing with greatest path probability, please see https://github.com/kimhc6028/soft-decision-tree.
 
 Original paper: https://arxiv.org/pdf/1711.09784.pdf
