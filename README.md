@@ -8,9 +8,7 @@ For inferencing with greatest path probability, please see https://github.com/ki
 Original paper: https://arxiv.org/pdf/1711.09784.pdf
 
 
-.
-.
-
+**
 The image below shows the logic for building a soft decision tree, where nodes are coded with (layer, position).
 
 .
