@@ -20,6 +20,6 @@ The image below shows the logic for building a soft decision tree, where nodes a
 # Results
 ******
 
-Without extensive tuning of hyperparameters, the tree with a depth of 8 was able to reach ~95% accuracy.
+Without extensive tuning of hyperparameters, the tree with a depth of 8 was able to reach ~95% accuracy on MNIST dataset.
 
 Feel free to ask questions, and please star if you find this useful.
